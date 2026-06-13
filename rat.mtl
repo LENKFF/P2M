@@ -1,0 +1,12 @@
+# Blender 5.1.2 MTL File: 'None'
+# www.blender.org
+
+newmtl remy_mat
+Ns 82.352959
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Gonçalo/Downloads/remy-ratatouille/source/PC Computer - Disney Magic Kingdoms - Remy/Remy/remy_diff.png
