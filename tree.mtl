@@ -1,0 +1,13 @@
+# Blender 5.2.0 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl blinn5
+Ns 63.117920
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Team3_Sanchez_TreeAirFreshner.png
+map_d C:/Team3_Sanchez_TreeAirFreshner.png
+map_Bump C:/Team3_Sanchez_TreeAirFreshnerbmap.png
