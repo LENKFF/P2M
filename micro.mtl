@@ -1,0 +1,14 @@
+# Blender 5.2.0 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl microphone
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/microphone_Base_color.png
+map_Ns C:/microphone_Roughness.png
+map_refl C:/microphone_Metallic.png
+map_d C:/microphone_Opacity.png
+map_Bump -bm 1.000000 C:/microphone_Normal_OpenGL.png
