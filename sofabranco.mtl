@@ -1,0 +1,23 @@
+# Blender 5.2.0 LTS MTL File: 'Sketchfab_2023_01_11_10_02_33.blend'
+# www.blender.org
+
+newmtl M_sofa_3230_fabric
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Tex_Sofa_fabric_W_Diffuse.png
+map_Bump -bm 0.320000 C:/Tex_Armchair_fabric_Nrmal.png
+
+newmtl M_sofa_3230_wood
+Ns 467.614624
+Ka 1.000000 1.000000 1.000000
+Kd 0.001890 0.001890 0.001890
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks C:/Wood_TJ_0_B.jpg
