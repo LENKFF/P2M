@@ -1,0 +1,13 @@
+# Blender 5.2.0 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl asche
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd C:/asche_diffuse.jpeg
+map_Ns C:/asche_specularGlossiness.png
+map_Ke C:/asche_emissive.jpeg
+map_Bump -bm 1.000000 C:/asche_normal.jpeg
