@@ -1,12 +1,14 @@
-# Blender 5.2.0 LTS MTL File: 'None'
+# Blender 5.2.1 LTS MTL File: 'None'
 # www.blender.org
 
-newmtl Fridge
-Ns 250.000000
+newmtl MainMetal
 Ka 1.000000 1.000000 1.000000
-Kd 0.500000 0.500000 0.500000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
+map_Kd C:/Users/Gonçalo/Downloads/samsung-family-hub-fridge/textures/metal_0062_color_4k.jpg
+map_Ns C:/Users/Gonçalo/Downloads/samsung-family-hub-fridge/source/Metal/metal_0062_roughness_4k.jpg
+map_refl C:/Users/Gonçalo/Downloads/samsung-family-hub-fridge/source/Metal/metal_0062_metallic_4k.jpg
+map_Bump -bm 1.000000 C:/Users/Gonçalo/Downloads/samsung-family-hub-fridge/source/Metal/metal_0062_normal_opengl_4k.png
