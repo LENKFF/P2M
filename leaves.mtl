@@ -1,0 +1,14 @@
+# Blender 5.2.2 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl LeafSet
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/Ressources/Alpha/LeafSet01/LeafSet002_Color.png
+map_Ns E:/Ressources/Alpha/LeafSet01/LeafSet02_Roughness.png
+map_refl E:/Ressources/Alpha/LeafSet01/LeafSet002_Metallic.png
+map_d E:/Ressources/Alpha/LeafSet01/LeafSet02_Opacity.png
+map_Bump -bm 1.000000 E:/Ressources/Alpha/LeafSet01/LeafSet002_Normal.png
