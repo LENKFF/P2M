@@ -1,0 +1,12 @@
+# Blender 5.2.2 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl AvatarItem_Gnosis_Anemo_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd gnosis/神之心/anemo/AvatarItem_Gnosis_Anemo_Tex_Diffuse.png
+map_d gnosis/神之心/anemo/AvatarItem_Gnosis_Anemo_Tex_Diffuse.png
