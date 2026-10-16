@@ -1,0 +1,13 @@
+# Blender 5.2.2 LTS MTL File: 'coreflames.blend'
+# www.blender.org
+
+newmtl M_Weapon_Case
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd C:/M_Weapon_Case_baseColor.png
+map_Ke C:/M_Weapon_Case_emissive.jpeg
+map_d C:/M_Weapon_Case_baseColor.png
+map_Bump -bm 1.000000 C:/M_Weapon_Case_normal.png
